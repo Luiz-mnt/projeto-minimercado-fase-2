@@ -30,10 +30,6 @@ A página web conta com as seguintes funcionalidades:
 
 Você pode visualizar o site em funcionamento através do GitHub Pages no seguinte link:
 
-[https://luiz-mnt.github.io/projeto-minimercado-fase-2/](https://luiz-mnt.github.io/projeto-minimercado-fase-2/)
-
 ## Autor
 * **Luiz Eduardo Santos Monteiro**
-* **Luiz Eduardo Santos Monteiro**
-
 ---
